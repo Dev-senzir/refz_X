@@ -1,1 +1,1 @@
-worker: python3 -m WWWL5
+worker: bash OSAMA

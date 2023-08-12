@@ -1,4 +1,4 @@
-FROM SOURCE-SPIDER/WWWL5:slim-buster
+FROM thejmthon/jmub:slim-buster
 
 RUN git clone https://github.com/SOURCE-SPIDER/WWWL5.git /root/WWWL5
 
